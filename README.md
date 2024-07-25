@@ -3,11 +3,12 @@ This project demonstrates a basic face detection system using OpenCV and Python.
 
 Key Features:
 
-Face Detection: Detects faces in images using OpenCV's CascadeClassifier.
+1)Face Detection: Detects faces in images using OpenCV's CascadeClassifier.
 
-Image Processing: Converts images to grayscale to enhance detection accuracy.
+2)Image Processing: Converts images to grayscale to enhance detection accuracy.
 
-Drawing Rectangles: Highlights detected faces with rectangles for visual confirmation.
+3)Drawing Rectangles: Highlights detected faces with rectangles for visual confirmation.
+
 
 
 Code Overview:
